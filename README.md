@@ -1,2 +1,1 @@
-# ncRNA
-a non-coding RNA modeler
+# ncRNA Modeler: a non-coding RNA modeler
