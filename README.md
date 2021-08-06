@@ -1,1 +1,2 @@
-# ncRNA Modeler: a non-coding RNA modeler
+# ncRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
+
