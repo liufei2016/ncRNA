@@ -6,9 +6,15 @@ Manual can be found at Manual.pdf. The examples in the manual can be downloaded 
 - Modeling
 - Kinetic model viewing and management
 - Examples
-
 # News
 # Table of Contents
+- [Manual](#manual)
+- [Background and Introduction](#background-and-introduction)
+- [Features](#features)
+- [FAQs](#faqs)
+- [News](#news)
+- [Download and Get Started](#download-and-get-started)
+- [Contact us](#contact-us)
 # Background and Introduction
 The purpose of this system is to provide users with the construction of non-coding RNA to complete the simulation of non-coding RNA, mainly including two main functions: 
 <br>(1) non-coding RNA modeling and visualization
@@ -22,7 +28,6 @@ The purpose of this system is to provide users with the construction of non-codi
    - Easy to build a strong non-coding RNA network. 
    - Formal analysis based on graph theory. 
    - Link non-coding RNA to Kinetic model based on Snoopy.
-
 # Download and Get Started
 # FAQs
 # Contact us
