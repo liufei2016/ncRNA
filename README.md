@@ -11,10 +11,11 @@ Manual can be found at Manual.pdf. The examples in the manual can be downloaded 
 # Table of Contents
 # Background and Introduction
 The purpose of this system is to provide users with the construction of non-coding RNA to complete the simulation of non-coding RNA, mainly including two main functions: 
-(1) non-coding RNA modeling and visualization
-(2) dynamic model management and viewing
-Among them, non-coding RNA modeling and visualization is based on those nodes and lines that users use when drawing and modeling, then generate xml type files. Dynamic model management and viewing refers to saving and managing models through input information in the software. 
-This software provides biomolecular modeling and simulation functions for researchers in the field of systems biology
+<br>(1) non-coding RNA modeling and visualization
+<br>(2) dynamic model management and viewing
+<br>Among them, non-coding RNA modeling and visualization is based on those nodes and lines that users use when drawing and modeling, then generate xml type files.
+<br>Dynamic model management and viewing refers to saving and managing models through input information in the software. 
+<br>This software provides biomolecular modeling and simulation functions for researchers in the field of systems biology
 # Features
 - Features overviews
    - User-friendly non-coding RNA icon, Protein icon, cell icon, etc. 
