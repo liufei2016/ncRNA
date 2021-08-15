@@ -26,5 +26,5 @@ This software provides biomolecular modeling and simulation functions for resear
 # FAQs
 # Contact us
 ncRNA insight is under active development. If you have any questions, please feel free to contact us. 
-Email: liuf_2001@163.com
-Address: University Town Campus, South China University of Technology, Guangzhou, Guangdong, China
+<br>  Email: liuf_2001@163.com\<br>  
+<br>  Address: University Town Campus, South China University of Technology, Guangzhou, Guangdong, China\<br>  
