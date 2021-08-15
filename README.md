@@ -1,7 +1,7 @@
 # ncRNA insight 
 - a tool for modeling, visualizing and analyzing ncRNA networks
 # Manual       
-Manual can be found at Manual.pdf. The examples in the manual can be downloaded from Examples, which include:
+Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/master/Manual.pdf). The examples in the manual can be downloaded from Examples, which include:
 - Introduction
 - Modeling
 - Kinetic model viewing and management
