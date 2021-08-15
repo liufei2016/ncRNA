@@ -16,6 +16,12 @@ The purpose of this system is to provide users with the construction of non-codi
 Among them, non-coding RNA modeling and visualization is based on those nodes and lines that users use when drawing and modeling, then generate xml type files. Dynamic model management and viewing refers to saving and managing models through input information in the software. 
 This software provides biomolecular modeling and simulation functions for researchers in the field of systems biology
 # Features
+- Features overviews
+   - User-friendly non-coding RNA icon, Protein icon, cell icon, etc. 
+   - Easy to build a strong non-coding RNA network. 
+   - Formal analysis based on graph theory. 
+   - Link non-coding RNA to Kinetic model based on Snoopy.
+
 # Download and Get Started
 # FAQs
 # Contact us
