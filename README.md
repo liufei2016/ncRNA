@@ -3,21 +3,7 @@
 # Manual       
 Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/master/Manual.pdf). The examples in the manual can be downloaded from Examples, which include:
 - model construction
-The tool provides specific graphical elements of species, edges, and metadata for easy representation of ncRNA network.
-<br>According to their categories,species include ncRNAs, genes and proteins, and ncRNAs are further organized.
-<br>Edges are divided into undirected, unidirectional, bidirectional and inhibitor types.Metadata includes comments, cell images and cell parts images. 
-<br>These graphic elements help to build a powerful and friendly ncRNA network.
-<br>The tool allows you to graphically create ncRNA networks by simply dragging specific graphical elements of species, connect to the palette, and then connect them with appropriate edges.Each element has some attributes, such as name, type, contained genes, and graphic attributes.
-<br>The tool also allows appropriate containers (such as pictures of batteries or components) to be connected to constructed ncRNA network.Therefore, the constructed network can be friendly, layered and large-scale.
-<br>It also supports clicking the icon and selecting "external link" to check the information about relevant information of ncRNA such as "ncRNA center", "NCBI", "gene ontology", "KEGG pathway" and "NCBI structure".
 - static analysis
-The tool provides several analysis techniques for ncRNA networks, which can be summarized as follows.
-   - basic analysis
-   The tool allows you to highlight adjacent species by right clicking the species icon and selecting "Find neighours", and you can also generate subnetworks containing interesting ncRNAs by right clicking its icon and selecting "generate subnetworkrock".
-   <br>This helps to examine ncRNA information from different sources.
-   - network analysis
-   - degree analysis
-   - go analysis via agrigo or metascape
 - dynamic analysis
 # News
 <br>2021-08-20 New Windows stable version of ncRNA is released.
