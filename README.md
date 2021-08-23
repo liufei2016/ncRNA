@@ -41,6 +41,10 @@ Operating environment:(1) non-coding RNA modeling and visualization
          - Install it.
          - Double click on ncRNA.exe or the icon on your desktop after installation.
 # FAQs
+# Team Members
+Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Jiahui He, Junjie Feng, Junhui Li 
+School of Software Engineering, 
+South China University of Technology
 # Contact us
 ncRNA insight is under active development. If you have any questions, please feel free to contact us. 
 <br>  Email: liuf_2001@163.com
