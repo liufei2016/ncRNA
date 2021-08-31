@@ -6,8 +6,9 @@ Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/mas
 - static analysis
 - dynamic analysis
 # News
-<br>2021-08-20 New Windows stable version of ncRNA is released.
-<br>2021-08-18 The first version of ncRNA is finished and internally used.
+<br>2020-08-20 The first version of ncRNA was released.
+<br>2021-08-18 A stable version of ncRNA was finished and internally used.
+<br>2021-08-31 A stable version of ncRNA was released for public use.
 # Table of Contents
 - [Manual](#manual)
 - [Background and Introduction](#background-and-introduction)
