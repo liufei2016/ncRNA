@@ -46,6 +46,9 @@ Operating environment:(1) non-coding RNA modeling and visualization
 Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Jiahui He, Junjie Feng, Junhui Li 
 School of Software Engineering, 
 South China University of Technology
+<br>Shu Yang, Peijing Zhang, Qi Chen, Ming Chen
+School of Biomedical Sciences
+Zhejiang University
 # Contact us
 ncRNA insight is under active development. If you have any questions, please feel free to contact us. 
 <br>  Email: liuf_2001@163.com
