@@ -1,5 +1,5 @@
-# NCRNA insight 
-NCRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
+# ncRNA insight 
+ncRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
 # Manual       
 Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/master/Manual.pdf), which include the following parts:
 - model construction
