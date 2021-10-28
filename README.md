@@ -1,23 +1,22 @@
 # ncRNA insight 
 ncRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
-# Manual       
-Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/master/Manual.pdf), which include the following parts:
-- model construction
-- static analysis
-- dynamic analysis
-<br> The examples in the manual can be downloaded from Examples.
+
+latest update: October 19, 2021, at 08:15 AM
+
+# Table of Contents
+- [News](#news)
+- [Background and Introduction](#background-and-introduction)
+- [Features](#features)
+- [Manual](#manual)
+- [Download and Get Started](#download-and-get-started)
+- [FAQs](#faqs)
+- [Contact us](#contact-us)
+
 # News
 <br>2019-08-20 The first version of ncRNA was released.
 <br>2021-08-18 A stable version of ncRNA was finished and internally used.
 <br>2021-08-31 A stable version of ncRNA was released for public use.
-# Table of Contents
-- [Manual](#manual)
-- [Background and Introduction](#background-and-introduction)
-- [Features](#features)
-- [FAQs](#faqs)
-- [News](#news)
-- [Download and Get Started](#download-and-get-started)
-- [Contact us](#contact-us)
+
 # Background and Introduction
 The purpose of this tool is to provide users with the construction of non-coding RNA networks and then the simulation and analysis of non-coding RNA networks, mainly including two main functions: 
 <br>(1) non-coding RNA modeling and visualization
@@ -31,6 +30,12 @@ The purpose of this tool is to provide users with the construction of non-coding
    - Easy to build a strong non-coding RNA network. 
    - Formal analysis based on graph theory. 
    - Link non-coding RNA to Kinetic model based on Snoopy.
+# Manual       
+Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/master/Manual.pdf), which include the following parts:
+- model construction
+- static analysis
+- dynamic analysis
+<br> The examples in the manual can be downloaded from Examples.
 # Download and Get Started
 - Operating environment:
 <br>The software is developed with C++ and QT in the Windows operational systems. 
@@ -48,7 +53,7 @@ Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Junjie Feng, Tingting Du
 School of Software Engineering, 
 South China University of Technology
 <br>Shu Yang, Peijing Zhang, Qi Chen, Ming Chen
-School of Biomedical Sciences,
+School of Life Sciences,
 Zhejiang University
 # Contact us
 ncRNA insight is under active development. If you have any questions, please feel free to contact us. 
