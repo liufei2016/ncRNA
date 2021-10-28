@@ -49,10 +49,10 @@ Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/mas
          - Double click on ncRNA.exe or the icon on your desktop after installation.
 # FAQs
 # Team Members
-Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Junjie Feng, Tingting Duan
+Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Junjie Feng, Tingting Duan,
 School of Software Engineering, 
-South China University of Technology
-<br>Shu Yang, Peijing Zhang, Qi Chen, Ming Chen
+South China University of Technology,
+<br>Ming Chen, Shu Yang, Peijing Zhang, Qi Chen, 
 School of Life Sciences,
 Zhejiang University
 # Contact us
