@@ -5,7 +5,7 @@ Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/mas
 - model construction
 - static analysis
 - dynamic analysis
-- The examples in the manual can be downloaded from Examples.
+<br> The examples in the manual can be downloaded from Examples.
 # News
 <br>2019-08-20 The first version of ncRNA was released.
 <br>2021-08-18 A stable version of ncRNA was finished and internally used.
