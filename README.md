@@ -1,9 +1,9 @@
 # ncRNA insight 
 ncRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
 
-latest update: April 11, 2022, at 02:30 PM
+latest update: October 25, 2022, at 04:00 PM
 
-latest update content: Fixed the bug that edges are not displayed after opening the model file;Added 4K resolution adaptation;
+latest update content: Fix the bug that select multiple nodes and edges will cause crash; Fix the bug that delete multiple selected items will cause crash.
 
 # Table of Contents
 - [News](#news)
@@ -18,7 +18,8 @@ latest update content: Fixed the bug that edges are not displayed after opening 
 <br>2019-08-20 The first version of ncRNA was released.
 <br>2021-08-18 A stable version of ncRNA was finished and internally used.
 <br>2021-08-31 A stable version of ncRNA was released for public use.
-<br>2022-04-11 An update with function increase and UI upgrade of ncRNA was released.
+<br>2022-04-11 An update with function increase and UI upgrade of ncRNA was released. Bugs fixed and 4K resolution adaptation.
+<br>2022-10-25 An patch to fix crash problem was updated.
 
 # Background and Introduction
 The purpose of this tool is to provide users with the construction of non-coding RNA networks and then the simulation and analysis of non-coding RNA networks, mainly including two main functions: 
@@ -68,13 +69,16 @@ Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/mas
 - Download
    - Windows version (64bit) 
       - Please download the zip file [ncRNA.zip](https://github.com/liufei2016/ncRNA/blob/master/ncRNA.zip). 
-         - Then unzip it and double click on the FCPN.exe to run the software.
-      - Or you can choose to download [install_ncRNA.exe](https://github.com/liufei2016/ncRNA/blob/master/install_ncRNA.exe). 
-         - Install it.
+         - Then unzip it and double click on the ncRNA.exe to run the software.
+      - Or you can choose to download [install.exe](https://github.com/liufei2016/ncRNA/blob/master/install.exe). 
+         - Install it in a empty folder.
          - Double click on ncRNA.exe or the icon on your desktop after installation.
 # FAQs
+
+
+
 # Team Members
-Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Junjie Feng, Tingting Duan,
+Fei Liu, Fuwen Luo, Yang Li, Shangshang Mao, Yuhong Li, Junjie Feng, Tingting Duan, Yinkuang Su,
 School of Software Engineering, 
 South China University of Technology,
 <br>Ming Chen, Shu Yang, Peijing Zhang, Qi Chen, 
