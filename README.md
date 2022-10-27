@@ -1,9 +1,9 @@
 # ncRNA insight 
 ncRNA insight - a tool for modeling, visualizing and analyzing ncRNA networks
 
-latest update: October 25, 2022, at 04:00 PM
+latest update: October 27, 2022, at 02:00 PM
 
-latest update content: Fix the bug that select multiple nodes and edges will cause crash; Fix the bug that delete multiple selected items will cause crash.
+latest update content: Fix the bug that select multiple nodes and edges will cause crash; Fix the bug that delete multiple selected items will cause crash; Fix the crash happens when using the network analyzer. Update the dialog UI of network analyzer and degree analyzer.
 
 # Table of Contents
 - [News](#news)
