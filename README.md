@@ -20,6 +20,7 @@ latest update content: Fix the bug that select multiple nodes and edges will cau
 <br>2021-08-31 A stable version of ncRNA was released for public use.
 <br>2022-04-11 An update with function increase and UI upgrade of ncRNA was released. Bugs fixed and 4K resolution adaptation.
 <br>2022-10-25 An patch to fix crash problem was updated.
+<br>2022-11-03 The ncRNA insight tool for Linux system was released.
 
 # Background and Introduction
 The purpose of this tool is to provide users with the construction of non-coding RNA networks and then the simulation and analysis of non-coding RNA networks, mainly including two main functions: 
@@ -73,6 +74,12 @@ Manual can be found at [Manual.pdf](https://github.com/liufei2016/ncRNA/blob/mas
       - Or you can choose to download [install.exe](https://github.com/liufei2016/ncRNA/blob/master/install.exe). 
          - Install it in a empty folder.
          - Double click on ncRNA.exe or the icon on your desktop after installation.
+   - Linux version (64bit) 
+      - Please download the tar.gz compressed file [ncRNA.tar.gz](https://github.com/liufei2016/ncRNA/blob/master/ncRNA.tar.gz). 
+        - Then extract the file and double click on the ncRNA to run the software.
+      - Or you can choose to download [install.run](https://github.com/liufei2016/ncRNA/blob/master/install.run)
+        - Install it in a empty folder.
+        - Double click on ncRNA or the AppRun in the folder to launch the tool.
 # FAQs
 
 
